@@ -1,4 +1,4 @@
-# assignment-4-Zach7777777
+# Assignment 4 Zach Smith
 assignment-4-Zach7777777 created by GitHub Classroom
 
 Q1 description: Made a large kahki backround the size of a computer wallpaper and added 4 javascript objects that all use loops to be drawn 
